@@ -1,1 +1,1 @@
-#Assignments for "Introduction to programming"
+Assignments for "Introduction to programming"
